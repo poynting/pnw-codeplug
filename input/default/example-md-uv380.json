@@ -69,10 +69,10 @@
 	],
 	"Contacts": [
 		{
-			"CallID": "1",
-			"CallReceiveTone": "No",
+			"CallID": "3191814",
+			"CallReceiveTone": "No",	
 			"CallType": "Group",
-			"Name": "Contact1"
+			"Name": "K5EM"
 		}
 	],
 	"GPSSystems": [
@@ -186,11 +186,11 @@
 		"PrivateCallMatch": "On",
 		"PublicZone": "On",
 		"PwAndLockEnable": "Off",
-		"RadioID": "1234567",
+		"RadioID": "3191814",
 		"RadioID1": "1",
 		"RadioID2": "2",
 		"RadioID3": "3",
-		"RadioName": "AA1AA",
+		"RadioName": "K5EM",
 		"RadioProgPassword": "",
 		"RxLowBatteryInterval": "120",
 		"SaveModeReceive": "On",
@@ -219,7 +219,7 @@
 		"DisplayMode": "On",
 		"Edit": "On",
 		"EditList": "On",
-		"Gps": "Off",
+		"Gps": "On",
 		"HangTime": "30",
 		"IntroScreen": "On",
 		"KeyboardLock": "On",
@@ -227,7 +227,7 @@
 		"ManualDial": "On",
 		"Missed": "On",
 		"OutgoingRadio": "On",
-		"PasswordAndLock": "On",
+		"PasswordAndLock": "Off",
 		"Power": "On",
 		"ProgramKey": "On",
 		"ProgramRadio": "On",
